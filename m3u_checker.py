@@ -18,15 +18,15 @@ def check_stream(url):
         return False
 
 def process_playlist(input_file, output_file):
-    """Process the M3U playlist and save active streams to the output file."""
-    with open(input_file, 'r') as file:
+    #Process the M3U playlist and save active streams to the output file.
+    with open(input_file, 'r', encoding='utf-8') as file:
         lines = file.readlines()
     
     # Check if the output file exists and remove it if it does
     if os.path.exists(output_file):
         os.remove(output_file)
 
-    with open(output_file, 'w') as file:
+    with open(output_file, 'w', encoding='utf-8') as file:
         i = 0
         while i < len(lines):
             if lines[i].startswith('#EXTINF'):
