@@ -3,7 +3,7 @@ This Python script checks the availability of streams listed in an M3U playlist 
 It verifies if each stream URL is accessible and creates a new M3U file containing only the active streams.
 
 # Requirements
-Python 3.x
+Python 3.x,
 requests library (pip install requests)
 
 # Usage
