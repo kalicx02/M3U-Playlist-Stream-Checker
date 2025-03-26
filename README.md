@@ -169,7 +169,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [FFmpeg](https://ffmpeg.org/) for the amazing media processing tools
 - All contributors who help improve this project
-
-## Contact
-
-If you have any questions or suggestions, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
