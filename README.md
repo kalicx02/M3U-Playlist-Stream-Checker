@@ -29,7 +29,7 @@ An advanced Python tool for checking the availability and quality of streams in 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/M3U-Playlist-Stream-Checker.git
+   git clone https://github.com/kalicx02/M3U-Playlist-Stream-Checker.git
    cd M3U-Playlist-Stream-Checker
    ```
 
