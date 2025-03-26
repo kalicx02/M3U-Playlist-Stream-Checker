@@ -150,22 +150,3 @@ python m3u_check.py playlist.m3u --low-fps 25
 ```bash
 python m3u_check.py playlist.m3u --min-resolution 1920x1080
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [FFmpeg](https://ffmpeg.org/) for the amazing media processing tools
-- All contributors who help improve this project
