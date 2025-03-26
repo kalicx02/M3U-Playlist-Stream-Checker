@@ -6,7 +6,7 @@
 
 An advanced Python tool for checking the availability and quality of streams in M3U playlists. This tool verifies if each stream URL is accessible and creates a new M3U file containing only the active streams.
 
-![M3U-Playlist-Stream-Checker Screenshot](https://api.placeholder/400/320)
+![M3U-Playlist-Stream-Checker Screenshot](coming soon)
 
 ## Features
 
